@@ -9,4 +9,4 @@ handler.tags = ['tools']
 
 handler.command = /^readviewonce/i
 
-module.exports = handler
+export default handler

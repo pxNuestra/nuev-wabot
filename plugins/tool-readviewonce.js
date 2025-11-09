@@ -1,4 +1,4 @@
-let { downloadContentFromMessage } = (await import('@adiwajshing/baileys'));
+let { downloadContentFromMessage } = (await import('@whiskeysockets/baileys'));
 
 let handler = async (m, { conn }) => {
     if (!m.quoted) throw 'where\'s message?'

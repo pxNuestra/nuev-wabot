@@ -39,7 +39,6 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
         "@bochilteam/scraper": "^5.0.1",
         "@whiskeysockets/baileys": "^6.7.21",
         "awesome-phonenumber": "^7.2.0",
@@ -62,7 +61,7 @@
         "node-gtts": "^2.0.2",
         "node-webpmux": "^3.2.0",
         "perf_hooks": "^0.0.1",
-        "pino": "^9.5.0",
+        "pino": "^9.14.0",
         "pino-pretty": "^11.3.0",
         "qrcode": "^1.5.4",
         "qrcode-terminal": "^0.12.0",

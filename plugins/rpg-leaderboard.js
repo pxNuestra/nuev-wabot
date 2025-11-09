@@ -1,5 +1,5 @@
 import db from '../lib/database.js'
-import { areJidsSameUser } from '@adiwajshing/baileys'
+import { areJidsSameUser } from '@whiskeysockets/baileys'
 
 const leaderboards = [
   'level',
