@@ -41,6 +41,7 @@
     "dependencies": {
         "@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
         "@bochilteam/scraper": "^5.0.1",
+        "@whiskeysockets/baileys": "^6.7.21",
         "awesome-phonenumber": "^7.2.0",
         "axios": "^1.7.7",
         "cfonts": "^3.3.0",
